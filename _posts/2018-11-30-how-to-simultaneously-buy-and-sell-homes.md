@@ -23,7 +23,9 @@ youtube_code: hofmFIzFxNc
 
 {% include youtube.html %}
 
-<center>Buying and selling homes simultaneously is entirely possible; you just need some preparation.</center>
+<center><em>Buying and selling homes simultaneously is entirely possible; you just need some preparation.</em></center>
+
+&nbsp;
 
 There are a few ways you can go about buying and selling homes at the same time. You can buy first and then sell, sell first and then buy, or you can conduct a concurrent/simultaneous close of escrow.
 
