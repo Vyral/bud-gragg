@@ -1455,7 +1455,7 @@ label.tree-toggle {
   background-position: center;
   background-size: cover;
   padding-top: 10rem;
-  height: 300px; }
+  height: 400px; }
 
 #hero {
   background-position: center;
@@ -1480,19 +1480,48 @@ label.tree-toggle {
   padding-top: 3rem;
   margin-bottom: 0; }
 
+.header-text {
+  flex-direction: column;
+  text-align: left;
+  margin: 20rem;
+  color: #fff;
+  font-size: 24px;
+  font-weight: bold;
+  -webkit-filter: drop-shadow(0px 2px 7px #000000);
+  filter: drop-shadow(0px 2px 7px #000000);
+  padding: 10px; }
+
+.header-image-container {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  border: 3px solid #19469d;
+  margin: 6rem;
+  overflow: hidden;
+  float: left; }
+
+.header-image {
+  max-width: 200px; }
+
 @media (max-width: 1100px) {
   .site-title {
     font-size: 5rem; } }
 @media (max-width: 1000px) {
   .site-logo {
-    max-width: 20rem; } }
+    max-width: 20rem; }
+
+  .header-text {
+    margin: 16rem; } }
 @media (max-width: 760px) {
   .site-logo {
     max-width: 20rem;
     margin-top: 4rem; }
 
   .site-title {
-    font-size: 5rem; } }
+    font-size: 5rem; }
+
+  .header-text {
+    margin: 12rem; } }
 @media (max-width: 600px) {
   .site-logo {
     max-width: 15rem;
@@ -1502,10 +1531,19 @@ label.tree-toggle {
     font-size: 3.5rem; }
 
   .cta {
-    padding: 1rem; } }
+    padding: 1rem; }
+
+  .header-image-container {
+    margin: 3rem; }
+
+  .header-text {
+    margin: 10rem 0; } }
 @media (max-width: 400px) {
   .cta {
-    padding: 0.5rem; } }
+    padding: 0.5rem; }
+
+  .header-text {
+    margin: 0; } }
 :root {
   font-size: 10px; }
 
@@ -2297,17 +2335,20 @@ table tr, table td {
   overflow: hidden;
   display: inline-block;
   margin: auto; }
+  .client-image-container div {
+    display: inline-block; }
 
 .client-image {
   max-width: 200px; }
 
 .about-container {
-  display: flex;
+  display: inline-block;
   justify-content: center;
+  text-align: center;
   padding: 0px 10px 40px;
   font-size: 18px; }
   .about-container div {
-    display: flex; }
+    display: inline-block; }
 
 .about-text {
   display: flex;
@@ -2566,6 +2607,11 @@ form select {
 
 .newsletter {
   background: #00010b; }
+
+.about-subtitle {
+  font-size: 22px;
+  font-weight: bold;
+  color: #19469d; }
 
 #side-logo {
   width: 90%;

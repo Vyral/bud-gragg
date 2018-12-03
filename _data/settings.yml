@@ -19,53 +19,28 @@ client:
   title:
   license_number:
   about_markdown: >-
-    **Mission**
-
-
-    * To Serve as Consummate Real Estate Professionals and Leave a Legacy of
-    Authenticity, Real Relationships and Positively Outrageous Customer Service
-    - While Having Fun! We are NOT Sales People, We are Business Owners
-
-
-    **Vision&nbsp;**
-
-
-    * A Reputation for the Most Trusted Real Estate Team
-
-
-    **Values**
-
-
-    * God, Family, Bucket List, Business, While Having Fun!
-
-
-    **Beliefs&nbsp;**
-
-
-    * Win-Win or No Deal
-
-    * Integrity - Do the Right Thing Always
-
-    * Customers are always First
-
-    * Commitment - &nbsp;In all things
-
-    * Communication - Seek First to Understand
-
-    * Creativity - Ideas Before Results
-
-    * Teamwork - Together We Achieve More
-
-    * Trust - Starts with Honesty
-
-    * Success - Real Results through People
-
-
-    **Perspective/Slogan**
-
-
-    **Real&nbsp;**Relationships,&nbsp;**Real&nbsp;**Expectations,&nbsp;**Real&nbsp;**Service,&nbsp;**Real&nbsp;**Results
-    - We Put the&nbsp;**Real&nbsp;**in Real Estate
+    <span class="about-subtitle">Mission</span><br>
+    • To Serve as Consummate Real Estate Professionals and Leave a Legacy of Authenticity, Real Relationships and Positively Outrageous Customer Service — While Having Fun! We are NOT Sales People, We are Business Owners<br>
+    <br>
+    <span class="about-subtitle">Vision</span><br>
+    • A Reputation for the Most Trusted Real Estate Team<br>
+    <br>
+    <span class="about-subtitle">Values</span><br>
+    • God, Family, Bucket List, Business, While Having Fun!<br>
+    <br>
+    <span class="about-subtitle">Beliefs</span><br>
+    • Win-Win or No Deal<br>
+    • Integrity - Do the Right Thing Always<br>
+    • Customers are always First<br>
+    • Commitment - &nbsp;In all things<br>
+    • Communication - Seek First to Understand<br>
+    • Creativity - Ideas Before Results<br>
+    • Teamwork - Together We Achieve More<br>
+    • Trust - Starts with Honesty<br>
+    • Success - Real Results through People<br>
+    <br>
+    <span class="about-subtitle">Perspective/Slogan</span><br>
+    Real **Relationships,** Real **Expectations,** Real **Service,** Real **Results** — We Put the **Real** in Real Estate
   brand: eXp Realty
   brokerage:
   market: Phoenix
