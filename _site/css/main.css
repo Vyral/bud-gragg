@@ -2627,6 +2627,9 @@ form select {
   color: #b40101;
   margin-top: -20px; }
 
+.whitespace {
+  margin-top: 4rem; }
+
 .recruiting {
   text-align: center; }
 
