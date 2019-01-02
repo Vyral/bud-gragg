@@ -25,7 +25,7 @@ youtube_code: tnZP_dibj8E
 
 &nbsp;
 
-We recently had our pie giveaway and it’s always one of our favorite events of the year. We give away free Thanksgiving pies, have some snacks and libations, and get to talk to a lot of our “VICs” (Very Important Clients). **After getting to talk to so many of you about your lives and about real estate, we wanted to answer a few of the most common questions we heard from you today**.
+We recently had our pie giveaway and it’s always one of our favorite events of the year. We give away free Thanksgiving pies, have some snacks and libations, and get to talk to a lot of our “VICs” (Very Important Clients). **After getting to talk to so many of you about your lives and about real estate, we wanted to answer a few of the most common questions that we heard from you today**.
 
 *“Having rented for decades, what are the benefits of homeownership other than building equity? If the current market is a seller’s market, is it a good time to buy or should I wait?”*
 
