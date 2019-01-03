@@ -22,7 +22,9 @@ youtube_code: J_VqOx8oCPA
 
 {% include youtube.html %}
 
-<center>Here are the stats from the fourth quarter of the 2018 real estate market year for the entire Phoenix area.</center>
+<center><em>Here are the stats from the fourth quarter of the 2018 real estate market year for the entire Phoenix area.</em></center>
+
+&nbsp;
 
 Like the stock market, in real estate, there’s good and bad news to be found on any given day.
 
