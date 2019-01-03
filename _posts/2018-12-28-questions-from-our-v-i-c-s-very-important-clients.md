@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Do Our Clients Want to Know About Real Estate?
+title: Questions From Our V.I.C.'s (Very Important Clients)
 date: 2018-12-28 00:00:00
 tags:
   - Real Estate
@@ -23,7 +23,7 @@ youtube_code: tnZP_dibj8E
 
 <center><em>Today I&rsquo;m answering some of the most common questions that I hear from prospective homebuyers. They offer a unique insight into the mind of today&rsquo;s buyer.</em></center>
 
-&nbsp;
+ 
 
 We recently had our pie giveaway and it’s always one of our favorite events of the year. We give away free Thanksgiving pies, have some snacks and libations, and get to talk to a lot of our “VICs” (Very Important Clients). **After getting to talk to so many of you about your lives and about real estate, we wanted to answer a few of the most common questions that we heard from you today**.
 
