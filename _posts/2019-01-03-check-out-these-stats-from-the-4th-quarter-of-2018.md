@@ -28,7 +28,7 @@ youtube_code: J_VqOx8oCPA
 
 Like the stock market, in real estate, there’s good and bad news to be found on any given day.
 
-Here is some news that isn’t necessarily bad, though, for the uncertain, it might seem that way: Every single mortgage broker, banker, and financial planner that I know is advising that mortgage interest rates are going to hit 6%, or possibly even higher. This is a no-brainer because there’s really only one way for rates to go (which is up). We’ve been very, very spoiled with interest rates for about the last eight years now, as they’ve been ridiculously low.
+Here is some news that isn’t necessarily bad; though, for the uncertain, it might seem that way: Every single mortgage broker, banker, and financial planner that I know is advising that mortgage interest rates are going to hit 6%, or possibly even higher. This is a no-brainer because there’s really only one way for rates to go (which is up). We’ve been very, very spoiled with interest rates for about the last eight years now, as they’ve been ridiculously low.
 
 **Buyers looking to make a home purchase but are currently on the fence should get in touch with me as soon as possible**—higher interest rates mean more interest costs on your mortgage loan. Generally, higher rates mean less buying power, so the higher the rate, the less home you’ll be able to afford. By waiting, homes that are available right now might not be within your reach if rates go up higher.
 
