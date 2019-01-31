@@ -23,7 +23,7 @@ youtube_code: TgRi30X74SE
 
 {% include youtube.html %}
 
-Whether you’re buying or selling a home, the safest way to get started is by calling a Realtor such as myself.
+<center>Whether you’re buying or selling a home, the safest way to get started is by calling a Realtor such as myself.</center>
 
 What is the safest way to buy and/or sell a home? There are a couple points to be made regarding this question.
 
