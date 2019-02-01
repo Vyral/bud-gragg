@@ -33,6 +33,6 @@ First of all, **I consider buying a home the safest investment you can make**. I
 
 {% include pullquote.html %}
 
-Secondly, **the safest way to actually buy or sell a home is by calling an agent such as myself**. Finding a property that suits your needs as a buyer or marketing your property as a seller and then navigating the transaction so that you get the best deal possible requires the expertise of a Realtor, and I’d love to help you in either case.
+Secondly, **the safest way to actually buy or sell a home is by calling an agent such as myself**. Whether you're finding a property that suits your needs as a buyer or trying to market your home and get the best deal possible as a seller, you need the expertise of a Realtor. I’d love to help you in either case.
 
 Remember, if you’re thinking of buying or selling a home or you have any questions about our real estate market, don’t hesitate to reach out to me. I look forward to speaking with you.
