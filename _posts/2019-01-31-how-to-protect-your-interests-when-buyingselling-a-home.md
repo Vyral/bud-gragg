@@ -18,14 +18,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/bud-gragg-jan-1-ss-np.jpg
-youtube_code: TgRi30X74SE
+youtube_code: KL2P7x2veNs
 ---
 
 {% include youtube.html %}
 
 <center><em>Whether you&rsquo;re buying or selling a home, the safest way to get started is by calling a Realtor such as myself.</em></center>
 
-&nbsp;
+ 
 
 What is the safest way to buy and/or sell a home? There are a couple points to be made regarding this question.
 
