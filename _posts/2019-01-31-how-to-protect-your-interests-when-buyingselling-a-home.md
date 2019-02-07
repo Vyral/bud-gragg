@@ -17,8 +17,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/bud-gragg-jan-1-ss-np.jpg
-youtube_code: KL2P7x2veNs
+youtube_alternate_image: /uploads/bud-gragg-jan-1-ss-np-1.jpg
+youtube_code: hcmcEYyWMmw
 ---
 
 {% include youtube.html %}
