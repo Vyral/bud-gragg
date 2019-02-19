@@ -1241,11 +1241,11 @@ html[xmlns] .flexslider .slides {
   .ctalink a {
     text-align: center; }
   .ctalink:hover {
-    background: #fff;
-    color: #19469d;
-    border: 1px solid #19469d; }
+    background: #f5821f;
+    color: #fff;
+    border: 1px solid #f5821f; }
   .ctalink:active {
-    box-shadow: 0 0 0 #19469d;
+    box-shadow: 0 0 0 #f5821f;
     -webkit-transform: translateY(0rem);
     transform: translateY(0rem); }
 
@@ -1905,11 +1905,11 @@ table tr, table td {
   font-size: 16px;
   transition: all 0.15s ease-out 0s; }
   .readlink > a:hover {
-    background: #fff;
-    color: #19469d;
-    border: 1px solid #19469d; }
+    background: #f5821f;
+    color: #fff;
+    border: 1px solid #f5821f; }
   .readlink > a:active {
-    box-shadow: 0 0 0 #19469d;
+    box-shadow: 0 0 0 #f5821f;
     -webkit-transform: translateY(0rem);
     transform: translateY(0rem); }
 
@@ -2285,11 +2285,11 @@ table tr, table td {
     border: 1px solid #19469d;
     transition: 0.3s; }
     .search-box .search-submit:hover {
-      background: #fff;
-      color: #19469d;
-      border: 1px solid #19469d; }
+      background: #f5821f;
+      color: #fff;
+      border: 1px solid #f5821f; }
     .search-box .search-submit:active {
-      box-shadow: 0 0 0 #19469d;
+      box-shadow: 0 0 0 #f5821f;
       -webkit-transform: translateY(0rem);
       transform: translateY(0rem); }
 
@@ -2595,9 +2595,9 @@ form select {
   cursor: pointer;
   padding: 1rem 1.5rem; }
   #myBtn:hover {
-    background-color: #fff;
-    border: 2px solid #19469d;
-    color: #19469d; }
+    background-color: #f5821f;
+    border: 2px solid #f5821f;
+    color: #fff; }
 
 @media(max-width: 750) {
   #myBtn {
