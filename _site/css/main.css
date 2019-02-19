@@ -1483,7 +1483,7 @@ label.tree-toggle {
 .header-text {
   flex-direction: column;
   text-align: left;
-  margin: 20rem;
+  margin: 10rem;
   color: #fff;
   font-size: 24px;
   font-weight: bold;
@@ -1511,7 +1511,7 @@ label.tree-toggle {
     max-width: 20rem; }
 
   .header-text {
-    margin: 16rem; } }
+    margin: 6rem; } }
 @media (max-width: 760px) {
   .site-logo {
     max-width: 20rem;
@@ -1521,7 +1521,7 @@ label.tree-toggle {
     font-size: 5rem; }
 
   .header-text {
-    margin: 12rem; } }
+    margin: 2rem; } }
 @media (max-width: 600px) {
   .site-logo {
     max-width: 15rem;
@@ -1537,13 +1537,21 @@ label.tree-toggle {
     margin: 3rem; }
 
   .header-text {
-    margin: 10rem 0; } }
-@media (max-width: 400px) {
+    margin: 3rem 0;
+    font-size: 20px; } }
+@media (max-width: 436px) {
   .cta {
     padding: 0.5rem; }
 
   .header-text {
-    margin: 0; } }
+    margin: 0; }
+
+  .header-image {
+    max-width: 150px; }
+
+  .header-image-container {
+    width: 150px;
+    height: 150px; } }
 :root {
   font-size: 10px; }
 
