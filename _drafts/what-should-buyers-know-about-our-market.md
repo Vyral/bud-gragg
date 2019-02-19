@@ -20,7 +20,7 @@ youtube_code: a1iaV5jlI_M
 
 {% include youtube.html %}
 
-I’ve got great news for homebuyers in the Phoenix area. There’s a great opportunity for you in our market right now.
+<center>I’ve got great news for homebuyers in the Phoenix area. There’s a great opportunity for you in our market right now.</center>
 
 Today we’ve got a quick update for buyers on the real estate market. The January numbers are in and I’m excited to share them with you.
 
