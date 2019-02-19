@@ -11,3 +11,9 @@ permalink: /real-estate-stories/
 <center>&nbsp;</center>
 
 ## C R A Z RE Stories Episode 2: Suicide
+
+## C R A Z RE Stories Episode 3: Bums in the Bedroom
+
+## C R A Z RE Stories Episode 4: 12 Gauge
+
+## C R A Z RE Stories Episode 5: Social Media Mayhem
