@@ -24,9 +24,9 @@ youtube_code: a1iaV5jlI_M
 
 &nbsp;
 
-Today we’ve got a quick update for buyers on the real estate market. The January numbers are in and I’m excited to share them with you.
+Today we’ve got a quick update for buyers in the real estate market. The January numbers are in and I’m excited to share them with you.
 
-**The average interest rate rose to 4.64% at the end of 2018, which is up .69% from a year ago**. For buyers that purchase a home at the median sale price of $260,000, that’s about $100 more on your monthly mortgage payment from last year.
+**The average interest rate rose to 4.64% at the end of 2018, which is up 0.69% from a year ago**. For buyers that purchase a home at the median sale price of $260,000, that’s about $100 more on your monthly mortgage payment from last year.
 
 Buyers averaged 1,845 sq ft. at this price, which is nearly 100 square feet smaller than the average from a year ago.
 
