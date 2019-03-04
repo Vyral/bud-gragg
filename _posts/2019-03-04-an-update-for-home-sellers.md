@@ -22,7 +22,9 @@ youtube_code: 3u79cSIIUOg
 
 {% include youtube.html %}
 
-<center>The market has changed a bit, but can sellers still get a great price for their home? Let’s find out.</center>
+<center><em>The market has changed a bit, but can sellers still get a great price for their home? Let&rsquo;s find out.</em></center>
+
+&nbsp;
 
 Today we’ll be taking a quick look at how our current market affects sellers in particular.
 
