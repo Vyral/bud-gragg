@@ -9,7 +9,8 @@ tags:
 excerpt: >-
   The market has changed a bit, but can sellers still get a great price for
   their home? Let’s find out.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Bud+Gragg/Videos/Bud+and+Kristin+Gragg+-+An+Update+for+Home+Sellers.mp4
 pullquote: >-
   Phoenix is still very much a seller’s market—it’s just a little weaker than
   last year.
@@ -24,7 +25,7 @@ youtube_code: 3u79cSIIUOg
 
 <center><em>The market has changed a bit, but can sellers still get a great price for their home? Let&rsquo;s find out.</em></center>
 
-&nbsp;
+ 
 
 Today we’ll be taking a quick look at how our current market affects sellers in particular.
 
@@ -34,6 +35,6 @@ At this time last year, demand was 1% above normal. Now, it’s 13% below normal
 
 {% include pullquote.html %}
 
-There’s still more demand than there is supply, but multiple-offer situations will no longer be the norm, and there will likely be fewer sales overall. Depending on interest rates, demand could change in either direction. **As of now, though, buyers and sellers still have some good opportunities in the market**.&nbsp;
+There’s still more demand than there is supply, but multiple-offer situations will no longer be the norm, and there will likely be fewer sales overall. Depending on interest rates, demand could change in either direction. **As of now, though, buyers and sellers still have some good opportunities in the market**. 
 
 If you have any questions or would like further information, feel free to reach out to me. I look forward to hearing from you soon.
