@@ -4,14 +4,4 @@ title: Testimonials
 permalink: /testimonials/
 ---
 
-<h1>Client Testimonials</h1>
-
-<div class="client-testimonial">
-<!-- insert iframe -->
-<p class ="testimonial-text">
-<!-- QUOTE TEXT -->
-</p>
-<p class="testimonial-author">
-<!-- QUOTE AUTHOR -->
-</p>
-<hr>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2hIoLCJNgTs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

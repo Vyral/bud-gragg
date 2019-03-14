@@ -10,6 +10,8 @@ show_custom_links: true
 custom_links:
   - title: Real Estate Stories
     url: /real-estate-stories/
+  - title: Testimonials
+    url: /testimonials/
 show_custom_links_new_tab: false
 custom_links_new_tab:
   - title:
@@ -34,7 +36,7 @@ client:
   brand:
   brokerage:
   market: Phoenix
-  address: 
+  address:
   phone: (480) 497-5600
   phone_type: Bud
   phone2: (602) 882-3700

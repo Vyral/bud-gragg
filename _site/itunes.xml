@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from eXp Realty - your professional Phoenix Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Bud & Kristin Gragg</managingEditor>
-    <lastBuildDate>2019-02-19 15:01:04 -0600</lastBuildDate>
+    <lastBuildDate>2019-03-14 14:11:03 -0500</lastBuildDate>
     <media:copyright>Bud & Kristin Gragg</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Phoenix, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -25,6 +25,47 @@
       <itunes:category text="Education"/>
     
       <item>
+        <title>An Update for Home Sellers</title>
+        <link>http://localhost:4000/an-update-for-home-sellers.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Seller Tips</category>
+        
+          <category>Market Update</category>
+        
+        <author>Bud & Kristin Gragg</author>
+        <pubDate>2019-03-03 18:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Bud+Gragg/Videos/Bud+and+Kristin+Gragg+-+An+Update+for+Home+Sellers.mp4</guid>
+        <description>
+
+The market has changed a bit, but can sellers still get a great price for their home? Let&rsquo;s find out.
+
+ 
+
+Today we’ll be taking a quick look at how our current market affects sellers in particular.
+
+The Phoenix market is still favoring sellers over buyers, but not as much as it was at the beginning of 2018. This year’s supply is 34% below normal—only slightly better than last year’s supply, which was 36% below the mark. As buyers face affordability issues and concerns about an overvalued market, demand continues to shift.
+
+At this time last year, demand was 1% above normal. Now, it’s 13% below normal. Though it may feel like a buyer’s market when compared to the last few years, Phoenix is still very much a seller’s market—it’s just a little weaker than last year.
+
+“Phoenix is still very much a seller’s market—it’s just a little weaker than last year.”
+
+There’s still more demand than there is supply, but multiple-offer situations will no longer be the norm, and there will likely be fewer sales overall. Depending on interest rates, demand could change in either direction. As of now, though, buyers and sellers still have some good opportunities in the market. 
+
+If you have any questions or would like further information, feel free to reach out to me. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Bud+Gragg/Videos/Bud+and+Kristin+Gragg+-+An+Update+for+Home+Sellers.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Bud+Gragg/Videos/Bud+and+Kristin+Gragg+-+An+Update+for+Home+Sellers.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>The market has changed a bit, but can sellers still get a great price for their home? Let’s find out.</itunes:subtitle>
+        <itunes:author>Bud & Kristin Gragg</itunes:author>
+        <itunes:summary>The market has changed a bit, but can sellers still get a great price for their home? Let’s find out.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Phoenix, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>What Should Buyers Know About Our Market?</title>
         <link>http://localhost:4000/what-should-buyers-know-about-our-market.html</link>
         
@@ -41,9 +82,9 @@ I&rsquo;ve got great news for homebuyers in the Phoenix area. There&rsquo;s a gr
 
  
 
-Today we’ve got a quick update for buyers on the real estate market. The January numbers are in and I’m excited to share them with you.
+Today we’ve got a quick update for buyers in the real estate market. The January numbers are in and I’m excited to share them with you.
 
-The average interest rate rose to 4.64% at the end of 2018, which is up .69% from a year ago. For buyers that purchase a home at the median sale price of $260,000, that’s about $100 more on your monthly mortgage payment from last year.
+The average interest rate rose to 4.64% at the end of 2018, which is up 0.69% from a year ago. For buyers that purchase a home at the median sale price of $260,000, that’s about $100 more on your monthly mortgage payment from last year.
 
 Buyers averaged 1,845 sq ft. at this price, which is nearly 100 square feet smaller than the average from a year ago.
 
