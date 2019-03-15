@@ -16,7 +16,7 @@ youtube_code: RKOpKLogI7E
 
 {% include youtube.html %}
 
-Nothing makes us happier than receiving a phone call from you referring a new seller, buyer, or investor to us. But today’s video is about us referring business to you.
+<center>Nothing makes us happier than receiving a phone call from you referring a new seller, buyer, or investor to us. But today’s video is about us referring business to you.</center>
 
 We love getting your referrals—we really do. Our business thrives on referrals, so we appreciate every phone call in which we’re referred to a new seller, buyer, or investor.
 
