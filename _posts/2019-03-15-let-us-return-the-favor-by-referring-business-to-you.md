@@ -6,7 +6,9 @@ tags:
   - Real Estate
 excerpt: Today’s video is about us referring business to you.
 enclosure:
-pullquote:
+pullquote: >-
+  If you’re a business owner who could benefit from our referrals, we definitely
+  want to hear from you.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -18,7 +20,7 @@ youtube_code: RKOpKLogI7E
 
 <center><em>Nothing makes us happier than receiving a phone call from you referring a new seller, buyer, or investor to us. But today&rsquo;s video is about us referring business to you.</em></center>
 
-&nbsp;
+ 
 
 We love getting your referrals—we really do. Our business thrives on referrals, so we appreciate every phone call in which we’re referred to a new seller, buyer, or investor.
 
