@@ -5,7 +5,8 @@ date: 2019-03-15 00:00:00
 tags:
   - Real Estate
 excerpt: Today’s video is about us referring business to you.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Bud+Gragg/Videos/Bud+and+Kristin+Gragg+-+Let+Us+Return+the+Favor+by+Referring+Business+to+You.mp4
 pullquote: >-
   If you’re a business owner who could benefit from our referrals, we definitely
   want to hear from you.
