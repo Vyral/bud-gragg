@@ -16,7 +16,7 @@ youtube_code: 9bL-xTLJ9OE
 
 {% include youtube.html %}
 
-Wire fraud can affect anyone, and here’s how to avoid it.
+<center>Wire fraud can affect anyone, and here’s how to avoid it.</center>
 
 Cybercrime is affecting real estate in a big way. Though none of our clients have been targeted, we want to make you aware of what’s going on—specifically, with wire fraud.
 
