@@ -20,7 +20,7 @@ youtube_code: 9bL-xTLJ9OE
 
 &nbsp;
 
-Cybercrime is affecting real estate in a big way. Though none of our clients have been targeted, we want to make you aware of what’s going on with wire fraud.
+Cybercrime is affecting real estate in a big way. Though none of our clients have been targeted, we want to make you aware of what’s going on—specifically with wire fraud.
 
 **Hackers have been getting into the emails of buyers and sellers in the middle of a transaction**. Then, they pose as a title company and give the victim new wiring instructions. The victim then sends the money to the hacker, and the money is lost.
 
