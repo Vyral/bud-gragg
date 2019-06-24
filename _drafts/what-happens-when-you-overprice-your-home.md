@@ -19,7 +19,7 @@ youtube_code: t9XcTOjAvjA
 
 {% include youtube.html %}
 
-As a seller, overpricing your home is one of the worst things you can do—here’s why.
+<center>As a seller, overpricing your home is one of the worst things you can do—here’s why.</center>
 
 What’s the single biggest reason overpricing your home is a mistake?
 
