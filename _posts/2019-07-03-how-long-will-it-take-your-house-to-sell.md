@@ -31,7 +31,7 @@ According to Realtor.com, the average number of days on market across the countr
 
 **1\. Location**. How close are you to a main street or a transportation hub in your town? This can play a huge part in today’s buyer’s decision to purchase your home, and how quickly they do so.
 
-**2\. Price**. Obviously, you don’t want to overprice your home when you place it on the market. I discussed the dangers of pricing your home too high in a previous video, which you can [watch here](https://budandkristin.com/what-happens-when-you-overprice-your-home.html){: target="_blank"}. If you do, you’ll shrink the pool of buyers looking at your home, and it could also cause issues with the appraisal if you actually did find a buyer who was willing to pay too much—that’s a topic for another time.
+**2\. Price**. Obviously, you don’t want to overprice your home when you place it on the market. I discussed the dangers of pricing your home too high in a previous video, which you can <u><a target="_blank" href="https://budandkristin.com/what-happens-when-you-overprice-your-home.html">watch here</a></u>. If you do, you’ll shrink the pool of buyers looking at your home, and it could also cause issues with the appraisal if you actually did find a buyer who was willing to pay too much—that’s a topic for another time.
 
 **3\. Inventory**. How many homes in your neighborhood are currently up for sale? We’ve seen neighborhoods with no houses for sale, which is ideal because that means there’s no competition. However, we’ve also seen neighborhoods with so many houses for sale that it’s almost impossible to calculate how long it would take to sell your home.
 
