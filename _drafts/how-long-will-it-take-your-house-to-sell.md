@@ -19,7 +19,7 @@ youtube_code: vTGLgOP0M1Q
 
 {% include youtube.html %}
 
-How long does it actually take to sell a house? That’s a complicated question.
+<center>How long does it actually take to sell a house? That’s a complicated question.</center>
 
 “How long does it take to sell a house?”
 
