@@ -41,6 +41,6 @@ According to Realtor.com, the average number of days on market across the countr
 
 **5\. Walkability**. Did you know that fewer and fewer people are driving these days? Walkability is an important criterion for today’s buyers. Is your house somewhere close to coffee shops, grocery stores, restaurants, or nightlife attractions? Having a better walkability score makes your home more marketable.
 
-**6\. Type of buyer**. What kind of buyers are looking to purchase your home? If they’re offering you a cash deal, then your house can in as few as seven days. Financed buyers like those with FHA or VA loans will take a bit longer. The rule of thumb is to establish a 30-day close of escrow once you get a buyer with a loan.
+**6\. Type of buyer**. What kinds of buyers are looking to purchase your home? If they’re offering you a cash deal, then your house can close in as few as seven days. Financed buyers like those with FHA or VA loans will take a bit longer. The rule of thumb is to establish a 30-day close of escrow once you get a buyer with a loan.
 
 If you have any questions about selling a home or real estate in general, don’t hesitate to reach out to me. We’re here to be your resource.
