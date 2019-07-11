@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: How long does it actually take to sell a house? That’s a complicated question.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bud+Gragg/Videos/How+Long+Will+It+Take+Your+House+to+Sell_.mp4
 pullquote: >-
   If a buyer is offering you a cash deal, then your house can in as few as seven
   days.
