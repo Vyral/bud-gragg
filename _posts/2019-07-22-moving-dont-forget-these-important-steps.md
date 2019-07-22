@@ -35,4 +35,4 @@ Moving can be stressful, but remembering to follow a few important steps can mak
 
 **7\. Transfer your utilities**. Electricity, gas, trash collection, internet, and all other utilities will need to be canceled and/or transferred.
 
-If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
