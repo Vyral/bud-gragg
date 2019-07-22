@@ -17,7 +17,9 @@ youtube_code: r9NNtfrQCoA
 
 {% include youtube.html %}
 
-<center>If you’re about to move, follow this checklist to ensure a smooth transition.</center>
+<center><em>If you&rsquo;re about to move, follow this checklist to ensure a smooth transition.</em></center>
+
+&nbsp;
 
 Moving can be stressful, but remembering to follow a few important steps can make it much less so. There are several things people often forget when moving, and today we’ll be highlighting just a few. The next time you pack your bags to head to a new home, always make sure to complete these crucial tasks:
 
