@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: 'If you’re about to move, follow this checklist to ensure a smooth transition.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bud+Gragg/Videos/Moving_+Dont+Forget+These+Important+Steps.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
