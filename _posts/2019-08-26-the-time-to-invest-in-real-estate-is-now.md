@@ -22,7 +22,7 @@ youtube_code: F77DvcLzWX0
 
 &nbsp;
 
-Have you been thinking of investing in real estate to build your wealth? If so, I have good news: I have honestly never seen a better time to invest. It’s a perfect storm here in the Valley; **interest rates have never been lower**, and there are rumors that they’re going to edge down a little more. If they do, it’ll be a long-term record; they’ve never been that low.
+Have you been thinking of investing in real estate to build your wealth? If so, I have good news: I have honestly never seen a better time to invest. It’s a perfect storm here in the Valley; **Interest rates have never been lower**, and there are rumors that they’re going to edge down a little more. If they do, it’ll be a long-term record; they’ve never been that low.
 
 Here’s a relevant story:
 
