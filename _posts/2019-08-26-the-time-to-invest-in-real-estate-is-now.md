@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today I have a quick message about one of my favorite subjects: real estate
   investing.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bud+Gragg/Videos/The+Time+to+Invest+in+Real+Estate+Is+Now.mp4
 pullquote: I have honestly never seen a better time to invest.
 enclosure_type: video/mp4
 enclosure_time:
