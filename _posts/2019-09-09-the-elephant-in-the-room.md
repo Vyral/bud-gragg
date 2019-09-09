@@ -19,7 +19,9 @@ youtube_code: SEmV1JILfy0
 
 {% include youtube.html %}
 
-<center>Tired of going through the hassle of selling your home on the market? Try this solution!</center>
+<center><em>Tired of going through the hassle of selling your home on the market? Try this solution!</em></center>
+
+&nbsp;
 
 If you want to **skip the hassle of selling your home this fall**, we have a new option for you: We can get an offer on your home from companies who want to buy it, instead of individuals on the traditional market.
 
