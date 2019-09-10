@@ -29,7 +29,7 @@ When you call, just let us know whether you prefer **maximum value** or **maximu
 
 This means:
 
-* You’ll close quickly and get equity from your home in as little as 7 days
+* You’ll close quickly and get equity from your home in as little as seven days
 * You pick your closing date
 * No showings or open houses
 * No negotiating with buyers
