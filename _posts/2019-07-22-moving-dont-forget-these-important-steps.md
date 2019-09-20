@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/7-19---bud-gragg---yt.jpg
-youtube_code: r9NNtfrQCoA
+youtube_code: QsXO5e3mP1E
 ---
 
 {% include youtube.html %}
