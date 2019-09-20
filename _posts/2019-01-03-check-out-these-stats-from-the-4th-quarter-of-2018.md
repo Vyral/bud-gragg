@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/bud-gragg-jan-1-ss-no-play.jpg
-youtube_code: J_VqOx8oCPA
+youtube_code: 7vZapwwGPgs
 ---
 
 {% include youtube.html %}
@@ -38,7 +38,7 @@ Here is some news that isn’t necessarily bad, though it might seem that way fo
 
 The good news is that tech companies are blowing up the Valley of Sun. Companies like Intel, American Express, eBay, Uber, Shutterfly, and Infusionsoft all have something in common: They’re either expanding or relocating their entire company here to the Valley. **Every day, at least 202 are moving to Maricopa County**.
 
-An analysis that was conducted by ranking the future job-growth projections of 182 cities in the United States came up with **this top five list**:
+An analysis that was conducted by ranking the future job-growth projections of 182 cities in the United States came up with **this top five list**\:
 
 * Chandler, Arizona
 * Scottsdale, Arizona
@@ -46,7 +46,7 @@ An analysis that was conducted by ranking the future job-growth projections of 1
 * Peoria, Arizona
 * Gilbert, Arizona
 
-That’s right! Four of the top five cities for growth are located right here in Maricopa County. And, according to research done by Zillow, Phoenix, Denver, Washington, D.C., Atlanta, Las Vegas, and San Jose will outperform the rest of the United States in 2019.
+That’s right\! Four of the top five cities for growth are located right here in Maricopa County. And, according to research done by Zillow, Phoenix, Denver, Washington, D.C., Atlanta, Las Vegas, and San Jose will outperform the rest of the United States in 2019.
 
 The bottom line is that **we are currently living in the strongest economy in the U.S.**, and we don’t expect that to change for a while. We have seen steep appreciation over the past eight years, so I understand people’s reluctance to act in the market. However, we believe that appreciation will slow down as inventory increases and rates rise. Overall, we are headed toward a more balanced market, which is a good thing.
 
