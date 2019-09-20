@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/7-3-how-long-np.jpg
-youtube_code: vTGLgOP0M1Q
+youtube_code: HW00fQRYdCA
 ---
 
 {% include youtube.html %}
