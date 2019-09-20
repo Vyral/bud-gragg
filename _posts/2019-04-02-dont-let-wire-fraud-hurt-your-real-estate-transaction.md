@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/4-2-wire-fraud-np.jpg
-youtube_code: 9bL-xTLJ9OE
+youtube_code: BN9yfB2Et_o
 ---
 
 {% include youtube.html %}
