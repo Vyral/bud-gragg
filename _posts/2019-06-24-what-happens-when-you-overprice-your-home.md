@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/6-24-overpricing-p.jpg
-youtube_code: t9XcTOjAvjA
+youtube_code: _ibngpvu2Tc
 ---
 
 {% include youtube.html %}
