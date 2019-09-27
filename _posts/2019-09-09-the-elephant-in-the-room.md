@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Tired of going through the hassle of selling your home on the market? Try this
   solution!
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bud+Gragg/Videos/The+Elephant+in+the+Room.mp4
 pullquote: "We\_can get an offer on your home from companies who want to buy it, instead of individuals on the traditional market."
 enclosure_type: video/mp4
 enclosure_time:
