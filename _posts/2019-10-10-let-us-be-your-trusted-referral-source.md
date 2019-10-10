@@ -20,7 +20,9 @@ youtube_code: _btqvZvdsP4
 
 {% include youtube.html %}
 
-<center>Here’s what we can do for anyone you know buying or selling a home.</center>
+<center><em>Here&rsquo;s what we can do for anyone you know buying or selling a home.</em></center>
+
+&nbsp;
 
 I’ve been in the real estate business for over 25 years, and it never ceases to amaze me when people don’t realize that we’re their trusted source for referrals.
 
