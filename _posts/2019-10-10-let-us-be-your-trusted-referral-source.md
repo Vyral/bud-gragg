@@ -7,7 +7,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: Here’s what we can do for anyone you know buying or selling a home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bud+Gragg/Videos/Let+Us+Be+Your+Trusted+Referral+Source.mp4
 pullquote: >-
   No matter where they’re moving, we’ll take great care of your friends and
   family.
