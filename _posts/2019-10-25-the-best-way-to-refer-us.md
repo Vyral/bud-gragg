@@ -26,7 +26,7 @@ Thank you so much for your referrals over the years\! **We cannot tell you how g
 
 Today’s message is about referring us the correct way. We just want to ask you a tiny favor about referring us. After you have recommended us, please don’t just give them our business card or tell them our information. What we would like you to say is: “Do you mind if I have Bud and Kristin call you?” Then send us their contact information.
 
-This way, they’ll be expecting our phone call. That’s the way we can effectively communicate with them. There are countless times that we’ve heard from you, our past clients, that you told someone about us, (which is great\!) but we never hear from them.
+This way, they’ll be expecting our phone call. That’s the way we can effectively communicate with them. There are countless times that we’ve heard from you, our past clients, that you told someone about us (which is great\!), but we never hear from them.
 
 {% include pullquote.html %}
 
