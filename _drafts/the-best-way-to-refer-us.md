@@ -18,7 +18,7 @@ youtube_code: Q_8eOxPkAtY
 
 {% include youtube.html %}
 
-We wanted to quickly let you know the best way to refer us to your friends and family.
+<center>We wanted to quickly let you know the best way to refer us to your friends and family.</center>
 
 Thank you so much for your referrals over the years\! **We cannot tell you how grateful we are for you and all that you’ve done for us**. This is an extension of the last blog post we did about referring us. Feel free to <u><a target="_blank" href="https://budandkristin.com/let-us-be-your-trusted-referral-source.html">watch that video here</a></u>\!
 
