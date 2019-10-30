@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   We wanted to quickly let you know the best way to refer us to your friends and
   family.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bud+Gragg/Videos/The+Best+Way+to+Refer+Us.mp4
 pullquote: Please don’t just give someone our business card.
 enclosure_type: video/mp4
 enclosure_time:
