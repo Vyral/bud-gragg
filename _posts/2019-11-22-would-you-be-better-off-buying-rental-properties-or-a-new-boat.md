@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: >-
-  What can you gain by investing in real estate? Let us tell you a quick story
+  What can you gain by investing in real estate? Let me tell you a quick story
   to answer this question.
 enclosure:
 pullquote: >-
@@ -21,7 +21,7 @@ youtube_code: 7VI7-DsReYA
 
 {% include youtube.html %}
 
-<center><em>What can you gain by investing in real estate? Let us tell you a quick story to answer this question.</em></center>
+<center><em>What can you gain by investing in real estate? Let me tell you a quick story to answer this question.</em></center>
 
 <br>To illustrate the benefits of real estate investing, I want to tell you a quick story.
 
