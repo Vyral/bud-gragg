@@ -21,7 +21,9 @@ youtube_code: 7VI7-DsReYA
 
 {% include youtube.html %}
 
-To illustrate the benefits of real estate investing, I want to tell you a quick story.
+<center><em>What can you gain by investing in real estate? Let us tell you a quick story to answer this question.</em></center>
+
+<br>To illustrate the benefits of real estate investing, I want to tell you a quick story.
 
 It all starts about 22 years ago when we were living in a subdivision in Mountain Park Ranch (my “office” was the front of my house). One day a neighbor visited us and said she’d been saving money for three or four years so she could buy a boat for her family. She had between $45,000 and $50,000 in the bank, and she was ready to pull the trigger.
 
