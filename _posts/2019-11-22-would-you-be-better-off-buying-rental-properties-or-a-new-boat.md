@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   What can you gain by investing in real estate? Let me tell you a quick story
   to answer this question.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bud+Gragg/Videos/Would+You+Be+Better+Off+Buying+Rental+Properties+or+a+New+Boat_.mp4
 pullquote: >-
   Sure enough, the next day we watched as she came home and backed her new boat
   into her driveway.
