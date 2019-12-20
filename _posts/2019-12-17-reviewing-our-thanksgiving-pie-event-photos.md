@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Happy Holidays From Bud and Kristin Gragg
+title: Reviewing our Thanksgiving Pie Event Photos
 date: 2019-12-17 00:00:00
 tags:
   - Real Estate
