@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reviewing our Thanksgiving Pie Event Photos
+title: Reviewing Our Thanksgiving Pie Event Photos
 date: 2019-12-17 00:00:00
 tags:
   - Real Estate
