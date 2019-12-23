@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reviewing Our Thanksgiving Pie Event Photos
+title: Gratitude Pie Party Extraveganza
 date: 2019-12-17 00:00:00
 tags:
   - Real Estate
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/12-16---bud-gragg---yt.jpg
-youtube_code: EqOjCrK-Xks
+youtube_code: 4Il4Aw_gsns
 ---
 
 {% include youtube.html %}
