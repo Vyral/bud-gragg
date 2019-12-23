@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gratitude Pie Party Extraveganza
+title: Gratitude Pie Party Extravaganza
 date: 2019-12-17 00:00:00
 tags:
   - Real Estate
