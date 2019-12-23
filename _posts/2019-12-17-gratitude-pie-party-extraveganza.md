@@ -12,7 +12,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/12-16---bud-gragg---yt.jpg
+youtube_alternate_image: /uploads/bud-gragg---yt.jpg
 youtube_code: 4Il4Aw_gsns
 ---
 
