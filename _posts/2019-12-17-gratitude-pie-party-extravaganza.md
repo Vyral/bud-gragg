@@ -23,3 +23,5 @@ youtube_code: 4Il4Aw_gsns
 <br>It was so great to be able to see so many of you at our recent Thanksgiving pie event, and whether you were able to attend or not, **we hope you all have a very happy holiday and a happy New Year**.
 
 If you have any questions regarding real estate, don't hesitate to reach out. We'd love to help you.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lBF-_9lZOxQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
