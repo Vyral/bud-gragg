@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Here are some of the great photos that we took and wanted to share from our
   Thanksgiving pie event.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bud+Gragg/Videos/Gratitude+Pie+Party+Extravaganza.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -24,4 +25,4 @@ youtube_code: 4Il4Aw_gsns
 
 If you have any questions regarding real estate, don't hesitate to reach out. We'd love to help you.
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/lBF-_9lZOxQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/lBF-_9lZOxQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
