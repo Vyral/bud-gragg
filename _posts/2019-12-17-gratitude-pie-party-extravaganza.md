@@ -24,4 +24,4 @@ youtube_code: 4Il4Aw_gsns
 
 If you have any questions regarding real estate, don't hesitate to reach out. We'd love to help you.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lBF-_9lZOxQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/lBF-_9lZOxQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
