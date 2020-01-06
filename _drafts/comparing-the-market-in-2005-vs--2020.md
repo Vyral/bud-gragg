@@ -19,7 +19,9 @@ youtube_code: UzVNk0do6mY
 
 {% include youtube.html %}
 
-Today I’m discussing 2005 versus 2020. Recently, we were asked by a buyer if she should wait until the market crash is over to buy a home. She believed wholeheartedly that we were headed for a market crash. About a year ago, I did a market update concerning the real estate market here in the Valley and we anticipated a bit of a slowdown in 2019. However, guess what? I was wrong. 2019 saw interest rates below 4%, which boosted the economy.
+<center><em>Today I’m sharing the differences between the real estate market in 2005 and 2020.</em></center>
+
+<br>Today I’m discussing 2005 versus 2020. Recently, we were asked by a buyer if she should wait until the market crash is over to buy a home. She believed wholeheartedly that we were headed for a market crash. About a year ago, I did a market update concerning the real estate market here in the Valley and we anticipated a bit of a slowdown in 2019. However, guess what? I was wrong. 2019 saw interest rates below 4%, which boosted the economy.
 
 **There’s a consensus out there that a recession is imminent** and there will be another downturn in the market in 2020. Times have changed, and there are quite a few differences between the years 2005 and 2020. At the end of 2019, U.S. unemployment is at 3.5%, the lowest it's been since June 1953. When adjusted for inflation, today’s home prices are lower than at the peak of 2006, which contributed to the crash.
 
