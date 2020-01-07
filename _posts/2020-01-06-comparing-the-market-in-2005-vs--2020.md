@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Comparing the market in 2005 vs. 2020
+title: Comparing the Market in 2005 vs. 2020
 date: 2020-01-06 00:00:00
 tags:
   - Real Estate
@@ -25,10 +25,10 @@ youtube_code: UzVNk0do6mY
 
 **There’s a consensus out there that a recession is imminent** and there will be another downturn in the market in 2020. Times have changed, and there are quite a few differences between the years 2005 and 2020. At the end of 2019, U.S. unemployment is at 3.5%, the lowest it's been since June 1953. When adjusted for inflation, today’s home prices are lower than at the peak of 2006, which contributed to the crash.
 
-Subprime and non-prime mortgage lending are at record lows, less than 5% in today’s market, as compared to 20% in 2005. That was the single biggest difference in the real estate market crash of 2006 to 2007. Today, there’s stricter lending guidelines and standards, reducing the likelihood of borrowers defaulting on their mortgages. Today, homebuyers are more cautious, and they’re electing to retain equity in their homes instead of borrowing against them, as in the disaster of 2005.
+Subprime and non-prime mortgage lending are at record lows—less than 5% in today’s market, as compared to 20% in 2005. That was the single biggest difference in the real estate market crash of 2006 to 2007. Today, there are stricter lending guidelines and standards, reducing the likelihood of borrowers defaulting on their mortgages. Today, homebuyers are more cautious, and they’re electing to retain equity in their homes instead of borrowing against them, as in the disaster of 2005.
 
 {% include pullquote.html %}
 
-We are in a strong, steady, appreciating market, as opposed to a fast peak and a quick valley. Keep in mind that, nationwide, there’s different markets and different stories. Here in Phoenix, 202 people a day are still moving to Maricopa County. **Businesses are relocating here in droves**.
+We are in a strong, steady, appreciating market, as opposed to a fast peak and a quick valley. Keep in mind that, nationwide, there are different markets and different stories. Here in Phoenix, 202 people a day are still moving to Maricopa County. **Businesses are relocating here in droves**.
 
 If you have any real estate needs, even just a referral for a vendor, get in touch with us by phone or email. We would love to help you.
