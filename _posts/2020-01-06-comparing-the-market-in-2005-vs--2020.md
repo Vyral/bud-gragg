@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Today I’m sharing the differences between the real estate market in 2005 and
   2020.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bud+Gragg/Videos/Comparing+the+Market+in+2005+vs.+2020.mp4
 pullquote: '2019 saw interest rates below 4%, which boosted the economy.'
 enclosure_type: video/mp4
 enclosure_time:
