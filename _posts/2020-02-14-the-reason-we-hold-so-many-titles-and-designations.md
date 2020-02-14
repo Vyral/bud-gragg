@@ -30,7 +30,7 @@ youtube_code: oNGvgHScVWg
 {% include pullquote.html %}
 
 * **CSA** stands for Certified Staging Advocate. This is all about preparing your home like a product for sale. Little details matter, and we know which ones to pay attention to.
-* **CNE** stands for Certified Negotiation Expert and MCNE stands for Master Certified Negotiation Experts. These are two designations that we’ve earned in the art of the deal. Using tactics and leveraging market conditions to your benefit is what we do.
+* **CNE** stands for Certified Negotiation Expert and **MCNE** stands for Master Certified Negotiation Experts. These are two designations that we’ve earned in the art of the deal. Using tactics and leveraging market conditions to your benefit is what we do.
 * **Broker**. This is one of our fundamental designations. Anybody can pass the real estate licensing exam, but a broker has taken it to the next level with an additional 90 hours of training and another state exam. I’ve been a broker for over 20 years.
 * **RCS-D** is our newest designation. It stands for Real Estate Collaborative Specialist- Divorce. To put that simply, it means we have been trained to handle this specific type of real estate situation dealing with a divorcing or divorced couple. There are a lot of pitfalls to be wary of in a situation like this, but we know how to handle them.
 
