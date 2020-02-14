@@ -18,7 +18,7 @@ youtube_code: oNGvgHScVWg
 
 {% include youtube.html %}
 
-<center><em>We hold many different titles and designations. Here’s what they all stand for.</em></center>
+<center><em>We hold many different titles and designations. Here&rsquo;s what they all stand for.</em></center>
 
 <br>Have you ever noticed all of the titles that Kristin and I have behind our names? Titles like ABR, CSA, CNE, RCSD, etc. Today I just wanted to give you a quick overview of all the designations that we hold and how earning them has allowed us to develop our wide breadth of real estate knowledge:
 
