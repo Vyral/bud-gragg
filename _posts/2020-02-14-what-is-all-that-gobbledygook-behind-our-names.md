@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is All That Gobbledygook Behind Our Names
+title: What is All That Gobbledygook Behind Our Names?
 date: 2020-02-14 00:00:00
 tags:
   - Real Estate
