@@ -5,7 +5,8 @@ date: 2020-02-14 00:00:00
 tags:
   - Real Estate
 excerpt: We hold many different titles and designations. Here’s what they all mean.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bud+Gragg/Videos/What+is+All+That+Gobbledygook+Behind+Our+Names_.mp4
 pullquote: All these titles show how much we care about helping our clients succeed.
 enclosure_type: video/mp4
 enclosure_time:
