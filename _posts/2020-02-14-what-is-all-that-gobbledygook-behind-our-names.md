@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Reason We Hold so Many Titles and Designations
+title: What is All That Gobbledygook Behind Our Names
 date: 2020-02-14 00:00:00
 tags:
   - Real Estate
@@ -10,7 +10,7 @@ pullquote: All these titles show how much we care about helping our clients succ
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/2-13---bud-gragg---yt.jpg
+youtube_alternate_image: /uploads/2-18---bud-gragg---yt.jpg
 youtube_code: n3FDI8uNoO4
 ---
 
