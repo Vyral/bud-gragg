@@ -21,10 +21,12 @@ client:
   title:
   license_number:
   about_markdown: >-
-    <span class="about-subtitle">Mission</span><br>• To Serve as Loyal Real Estate Professionals, Leaving a Legacy of Integrity, REAL Relationships and Positively Outrageous Customer Service, WHILE HAVING FUN!<br><br><span
+    <span class="about-subtitle">Mission</span><br>• To Serve as Loyal Real
+    Estate Professionals, Leaving a Legacy of Integrity, REAL Relationships and
+    Positively Outrageous Customer Service, WHILE HAVING FUN\!<br><br><span
     class="about-subtitle">Vision</span><br>• A Reputation for the Most Trusted
     Real Estate Team<br><br><span class="about-subtitle">Values</span><br>• God,
-    Family, Bucket List, Business, While Having Fun!<br><br><span
+    Family, Bucket List, Business, While Having Fun\!<br><br><span
     class="about-subtitle">Beliefs</span><br>• Win-Win or No Deal<br>• Integrity
     - Do the Right Thing Always<br>• Customers are always First<br>• Commitment
     - &nbsp;In all things<br>• Communication - Seek First to Understand<br>•
@@ -34,7 +36,7 @@ client:
     **Relationships,** Real **Expectations,** Real **Service,** Real **Results**
     — We Put the **Real** in Real Estate
   brand:
-  brokerage:
+  brokerage: Keller Williams Integrity First Realty
   market: Phoenix
   address:
   phone: (480) 497-5600
