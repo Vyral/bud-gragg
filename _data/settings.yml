@@ -1,11 +1,7 @@
 audit_header: false
 title: Global Real Estate Video Blog with Bud & Kristin Gragg
 description: >-
-  Our mission at eXp Realty is to be your best resource for real estate advice.
-  Whether you are a buyer, seller, or investor, our team of professionals can
-  answer any questions you might have about real estate. If you are looking to
-  buy or sell a home, you can get all the information and the latest updates,
-  tips, and tricks from The eXp Realty, your professional Real Estate Agents.
+  Serving as Loyal Real Estate Professionals, Building a Legacy of Integrity, REAL Relationships, and Positively Outrageous Customer Service, WHILE HAVING FUN!
 show_custom_links: true
 custom_links:
   - title: Real Estate Stories
@@ -21,9 +17,7 @@ client:
   title:
   license_number:
   about_markdown: >-
-    <span class="about-subtitle">Mission</span><br>• To Serve as Loyal Real
-    Estate Professionals, Leaving a Legacy of Integrity, REAL Relationships and
-    Positively Outrageous Customer Service, WHILE HAVING FUN\!<br><br><span
+    <span class="about-subtitle">Mission</span><br>• Serving as Loyal Real Estate Professionals, Building a Legacy of Integrity, REAL Relationships, and Positively Outrageous Customer Service, WHILE HAVING FUN!<br><br><span
     class="about-subtitle">Vision</span><br>• A Reputation for the Most Trusted
     Real Estate Team<br><br><span class="about-subtitle">Values</span><br>• God,
     Family, Bucket List, Business, While Having Fun\!<br><br><span
@@ -35,7 +29,7 @@ client:
     People<br><br><span class="about-subtitle">Perspective/Slogan</span><br>Real
     **Relationships,** Real **Expectations,** Real **Service,** Real **Results**
     — We Put the **Real** in Real Estate
-  brand:
+  brand: Dream Team Integrity
   brokerage: Keller Williams | Integrity First Realty
   market: Phoenix
   address:
