@@ -62,8 +62,8 @@ second_sidebar_CTA:
     CTA_link_text2: Search the MLS
     CTA_url2: 'https://myre.io/0LQtVIK9poHDB'
 lender:
-  show_section: false
-  header_text: Preferred Lender
+  show_section: true
+  header_text: Lender
   headshot_path: /img/lender-headshot.jpg
   logo_path: /img/lender-logo.png
   name: Tami Armijo, Mortgage Advisor
