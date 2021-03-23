@@ -46,7 +46,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://www.whatsmypadworth.com/'
   second_CTA_text: Home Search
-  second_CTA_URL: 'https://myre.io/0LQtVIK9poHDB/'
+  second_CTA_URL: 'https://discoverphoenixhomesforsale.com/property-search/'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: What’s Your Home Worth?
@@ -60,7 +60,7 @@ second_sidebar_CTA:
     CTA_title2: Looking for a Home?
     CTA_text2: Search the entire MLS for your home.
     CTA_link_text2: Search the MLS
-    CTA_url2: 'https://myre.io/0LQtVIK9poHDB'
+    CTA_url2: 'https://discoverphoenixhomesforsale.com/property-search/'
 lender:
   show_section: true
   header_text: Lender
@@ -79,7 +79,7 @@ socials:
   linkedin_url: 'https://www.linkedin.com/in/kristingragg/'
   youtube_url: https://www.youtube.com/channel/UCWd71fR86uyAzzSI7JSOiaw
   twitter_url: 
-  instagram_url: 'https://www.instagram.com/bkginternationalrealestate/'
+  instagram_url: 'https://www.instagram.com/dti_dreamteaminternational/?hl=en'
   pinterest_url:
   zillow_url:
   trulia_url:
