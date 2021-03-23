@@ -27,7 +27,7 @@
 		<a href="mailto:{{site.data.settings.lender.email}}">{{site.data.settings.lender.email}}</a><br>
 		{% endif %}
 		{% if site.data.settings.lender.url != null %}
-		<a href="{{site.data.settings.lender.url}}">{{site.data.settings.lender.url | remove: 'http://' | remove: 'https://'}}</a>
+		<a href="{{site.data.settings.lender.url}}" target="_blank">{{site.data.settings.lender.url | remove: 'http://' | remove: 'https://'}}</a>
 		{% endif %}
 		<br>
 		275 E Rivulon Blvd 200, Gilbert, AZ 85297<br>	
