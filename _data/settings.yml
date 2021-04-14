@@ -6,6 +6,8 @@ show_custom_links: true
 custom_links:
   - title: Real Estate Stories
     url: /real-estate-stories/
+  - title: divorce
+    url: /divorce/
   - title: Testimonials
     url: /testimonials/
 show_custom_links_new_tab: false
