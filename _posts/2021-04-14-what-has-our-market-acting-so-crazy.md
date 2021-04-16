@@ -5,13 +5,14 @@ date: 2021-04-14 14:53:00
 tags:
   - Market Update
 excerpt: Low inventory and high demand have made our market crazy.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bud+Gragg/Videos/2021/What%E2%80%99s+Has+Our+Market+Acting+so+Crazy_.mp4
 pullquote: 'If you’re thinking of selling or know anyone who is, get in touch with us.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: 6gRH3vQ6iuw
 ---
 {% include youtube.html %}
 
