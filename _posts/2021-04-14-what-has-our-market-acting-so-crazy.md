@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What’s Has Our Market Acting so Crazy?
+title: What Has Our Market Acting so Crazy?
 date: 2021-04-14 14:53:00
 tags:
   - Market Update
