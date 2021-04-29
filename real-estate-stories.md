@@ -26,4 +26,4 @@ permalink: /real-estate-stories/
 
 ## C R A Z RE Stories Episode 6: My Furniture Fiasco
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y7Bq7hnEe1I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hNSxr2zKyUQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
