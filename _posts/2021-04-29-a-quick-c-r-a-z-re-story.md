@@ -30,6 +30,6 @@ A couple of years ago, I was working on the purchase side of an FHA transaction.
 
 **For some reason (likely due to their inexperience), the listing agent shared that addendum with the lender.** Again, this was an FHA deal, and the FHA appraiser said that they wouldn’t fund the transaction unless the property was vacant. One FHA rule states that you cannot convey furniture with the sale of the home.
 
-Here’s the C R A Z RE &nbsp;part: The buyer and his friends rented a U-Haul, parked it around the corner, and loaded it up with all the furniture into it. **The next morning, the FHA appraiser came out and did an inspection; they saw that it was vacant and funded the deal.** We closed escrow and then moved the furniture back in 12 hours later.
+Here’s the C R A Z RE &nbsp;part: The buyer and his friends rented a U-Haul, parked it around the corner, and loaded it up with all the furniture. **The next morning, the FHA appraiser came out and did an inspection; they saw that it was vacant and funded the deal.** We closed escrow and then moved the furniture back in 12 hours later.
 
 If you have any questions about today’s topic or how we as a team will go above and beyond for our clients, don’t hesitate to reach out to us. We’d love to help you.
