@@ -43,5 +43,3 @@ Ultimately, it’s an excellent time to be a seller as long as you have an exper
 [Enter your address here to find out what your home is currently worth](https://get.homebot.ai/?agentId=5b48aeb6afe0ff003f487b32){: target="_blank" rel="noopener"}
 
 If you’d like to speak to us about selling or any other real estate matter, please call or email us. We would love to help you reach your real estate goals.
-
-{% include pullquote.html %}
