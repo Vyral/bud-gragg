@@ -1,10 +1,10 @@
 ---
 layout: post
 title: May 2021 Market Update
-date: 2021-05-13 16:58:51
+date: 2021-05-13 16:58:00
 tags:
   - Market Update
-excerpt:
+excerpt: Anxious buyers and sellers are worried about a real estate market crash.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Bud+Gragg/Videos/2021/May+2021+Market+Update.mp4
 pullquote:
