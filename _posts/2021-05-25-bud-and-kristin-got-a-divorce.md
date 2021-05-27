@@ -18,7 +18,7 @@ youtube_code: t2q0nDFXKxk
 
 {% include excerpt.html %}
 
-Professor Kelly Murray has law degrees both from Harvard and Stanford, and she is currently on staff at Vanderbilt teaching family law to judges and attorneys across the nation. We’ve trained extensively under her, and I want to share some things we've learned under her divorce designation curriculum.
+Bud and Kristin got a Divorce……….DESIGNATION. Professor Kelly Murray has law degrees both from Harvard and Stanford, and she is currently on staff at Vanderbilt teaching family law to judges and attorneys across the nation. We’ve trained extensively under her, and I want to share some things we've learned under her divorce designation curriculum.
 
 Your family home is usually the most significant asset in divorce mediation, often coming with significant debt. However, **appraisal minus mortgage balance does not equal equity.** This incomplete equation leaves your house overvalued, and that works against you in family mediation for divorce. Don't settle for a bad property settlement statement in addition to the inaccurate and unfair division of the property. You risk damaging your credit, default, foreclosure, and maybe even bankruptcy.
 
