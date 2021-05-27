@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Navigating Divorce With Your Property Intact
-date: 2021-05-25 14:56:50
+title: Bud and Kristin got a Divorce
+date: 2021-05-25 14:56:00
 tags:
-  - Real Estate
+  - Divorce
 excerpt: What we learned studying Kelly Murray’s divorce designation curriculum.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Bud+Gragg/Videos/2021/Navigating+Divorce+With+Your+Property+Intact.mp4
