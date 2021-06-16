@@ -28,6 +28,6 @@ The primary drivers of our market, supply and demand, are completely out of whac
 
 Demand is at 107% of its typical level, in part because almost 300 people a day are moving to Phoenix. Builders in the area are building as much as they can, given the shortage of housing supplies, but they’re unable to keep up with demand.
 
-If you have a home that’s not so pretty, know that this is a good time to ‘dump your junk’; **it’s definitely easier to sell lower-quality homes in this market than in a traditional market.** In terms of values, home prices rose by 36% from this time last year. Prices are projected to rise for the next 16 months, demonstrating that we’re in a very strong seller’s market. The total number of sales in metropolitan Phoenix just blew away our top sales from 2005, which was a phenomenal year.
+If you have a home that’s not so pretty, know that this is a good time to ‘dump your junk’; **it’s definitely easier to sell lower-quality homes in this market than in a traditional market.** In terms of values, home prices rose by 36% from this time last year. Prices are projected to rise for the next 16 months, demonstrating that we’re in a very strong seller’s market. The total number of sales in metropolitan Phoenix just blew away our numbers from 2005, which was a phenomenal year.
 
 If you’re thinking about buying, selling, or both, now is a great time to get in the market. Don’t hesitate to reach out to us with any questions\! We’d love to share what your options are.
