@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Update on Phoenix Real Estate
-date: 2021-06-15 08:00:00
+date: 2021-06-18 08:00:00
 tags:
   - Market Update
 excerpt: Here’s what’s going on in the Phoenix real estate market.
