@@ -22,7 +22,7 @@ What’s the latest news from our Phoenix real estate market as we make our way 
 
 **Feel free to watch the video above in its entirety to get the full market update or use these timestamps to skip ahead to various sections at your leisure:**
 
-0:27—The large gap between supply and demand, and why builders are far behind
+0:27—The large gap between supply and demand and why builders are far behind
 
 1:45—True demand and population growth
 
