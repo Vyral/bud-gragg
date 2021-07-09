@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are iBuyers?
-date: 2021-07-02 14:00:00
+date: 2021-07-09 13:00:00
 tags:
   - Home Seller Tips
 excerpt: Here’s what you need to know about selling to iBuyers and how we can help.
