@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Latest News & Notes From Our Market '
-date: 2021-07-07 13:17:00
+date: 2021-07-16 13:17:00
 tags:
   - Market Update
 excerpt: These are the trends to watch for in our market.
