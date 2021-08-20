@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How the Market Is Slowing and What This Means
-date: 2021-08-17 16:00:41
+date: 2021-08-20 11:00:00
 tags:
   - Market Update
 excerpt: The Cromford Report shows that our market is slowing down a bit.
@@ -34,6 +34,6 @@ The Phoenix real estate market is slowing down some. Now, none of us can see the
 
 5:30—Wrapping up.
 
-**I want to be clear that this isn’t a crash.** The market isn’t falling, it’s balancing out, and that’s refreshing since we’ve been in such a strong seller’s market for almost two years.&nbsp;
+**I want to be clear that this isn’t a crash.** The market isn’t falling, it’s balancing out, and that’s refreshing since we’ve been in such a strong seller’s market for almost two years.
 
 As always, we are your real estate friends for life. If you have questions about this topic or we can help you in any way, don’t hesitate to reach out to us. We’re here for you.
