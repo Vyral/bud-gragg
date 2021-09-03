@@ -5,7 +5,8 @@ date: 2021-09-02 16:15:00
 tags:
   - Home Seller Tips
 excerpt: Here’s how we can get you a better deal than the typical iBuyer offers.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bud+Gragg/Videos/2021/9.3+Gragg+EDIT.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
