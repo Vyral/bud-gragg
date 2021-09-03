@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don’t Sell to an iBuyer Without Talking to Us First
-date: 2021-09-02 16:15:00
+date: 2021-09-03 13:45:00
 tags:
   - Home Seller Tips
 excerpt: Here’s how we can get you a better deal than the typical iBuyer offers.
