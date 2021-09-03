@@ -18,11 +18,11 @@ youtube_code: AX0sZeZarL8
 
 {% include excerpt.html %}
 
-How many calls, texts, voicemails, and radio ads have you come across where someone is trying to buy your home? These companies are commonly referred to as “iBuyers.” **If you’re considering selling your home to one, call us first. **
+How many calls, texts, voicemails, and radio ads have you come across where someone is trying to buy your home? These companies are commonly referred to as “iBuyers.” **If you’re considering selling your home to one, call us first.&nbsp;**
 
 We have relationships with all of them. When you work with us, they know we’re shopping your offer with other offers. When buyers compete, sellers win.
 
-The difference between us submitting an offer for you and you submitting one on your own is this: **We have been doing this for 26 years and know how to bring in that top cash offer. **
+The difference between us submitting an offer for you and you submitting one on your own is this: **We have been doing this for 26 years and know how to bring in that top cash offer.&nbsp;**
 
 We’ll coordinate 15 or more competitive, cash offers, negotiate on your behalf, and get you the best possible deal. We’ll protect your identity, lower the repair costs, and determine which offer is best for your individual situation. If you’re not happy with any of the offers, we can help you in other ways, like our maximum equity program or a traditional sale.
 
