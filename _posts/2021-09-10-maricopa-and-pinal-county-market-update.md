@@ -5,7 +5,8 @@ date: 2021-09-10 16:51:16
 tags:
   - Market Update
 excerpt: Here are the latest numbers and trends in our Arizona market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bud+Gragg/Videos/2021/Maricopa+and+Pinal+County+Market+Update.mp4
 pullquote: We’re trending towards a weaker seller’s market.
 enclosure_type: video/mp4
 enclosure_time:
@@ -23,7 +24,7 @@ We like to see affordability at 60% or above for a healthy real estate market. *
 
 {% include pullquote.html %}
 
-**Many of our zip codes and cities have trended down in terms of pricing and demand.** The sale prices haven’t come down, but we are starting to shift away from the nutty market we’ve been seeing. Last month, we saw as many as 25 offers on a home, but now we’re seeing maybe four or five.&nbsp;
+**Many of our zip codes and cities have trended down in terms of pricing and demand.** The sale prices haven’t come down, but we are starting to shift away from the nutty market we’ve been seeing. Last month, we saw as many as 25 offers on a home, but now we’re seeing maybe four or five.
 
 The very first shift we should see is with the number of price reductions. **For the last 18 months, we have seen none at all, but now we are seeing some reductions.** It’s not like we’re falling off a cliff; 56% of home sales are above the listing price, so we’re trending towards a weaker seller’s market.
 
