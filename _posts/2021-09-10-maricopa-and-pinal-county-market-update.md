@@ -20,7 +20,7 @@ youtube_code: imGn5he0heY
 
 It is true, Maricopa and Pinal counties have officially dropped below 60% on the affordability scale, but what does that mean?
 
-We like to see affordability at 60% or above for a healthy real estate market. **We are now at 56.4%** which is nearly identical to the national average. This means the typical family making the median income can only afford 56% of the homes for sale right now. This is below where we want it, but it’s not too far below.
+We like to see affordability at 60% or above for a healthy real estate market. **We are now at 56.4%,** which is nearly identical to the national average. This means the typical family making the median income can only afford 56% of the homes for sale right now. This is below where we want it, but it’s not too far below.
 
 {% include pullquote.html %}
 
