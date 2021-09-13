@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Maricopa and Pinal County Market Update
-date: 2021-09-10 16:51:16
+date: 2021-09-13 14:08:00
 tags:
   - Market Update
 excerpt: Here are the latest numbers and trends in our Arizona market.
