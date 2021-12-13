@@ -5,7 +5,8 @@ date: 2021-12-13 21:20:24
 tags:
   - Home Seller Tips
 excerpt: Here’s how we can help you get more offers and more money for your home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bud+Gragg/Videos/2021/What+Is+an+iBuyer_.mp4
 pullquote: I don’t know of any other team that is doing this.
 enclosure_type: video/mp4
 enclosure_time:
