@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We Cover More Areas Now
-date: 2021-12-29 19:14:27
+date: 2022-01-03 12:00:00
 tags:
   - Real Estate
 excerpt: We are expanding our service out to Flagstaff, Cottonwood, and more.
@@ -20,4 +20,4 @@ youtube_code: ez8PxRfN1CY
 
 We just wanted to let you know that we are expanding again. A few months ago, we moved into the whole White Mountain area. Now, we’re moving in the other direction. **We also cover the Flagstaff, Prescott, Munds Park, and Cottonwood areas.** It’s really exciting\!
 
-We’re here for you for all of those areas as well. We're your real estate friends for life, so if you have any questions about those areas or real estate in general, feel free to call or email us. We handle short-term rentals, too\!
+We’re here for you in all of those areas as well. We're your real estate friends for life, so if you have any questions about those areas or real estate in general, feel free to call or email us. We handle short-term rentals, too\!
