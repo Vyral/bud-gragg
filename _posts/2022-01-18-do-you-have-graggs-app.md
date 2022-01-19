@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Do You Have Graggs App?
+title: Do You Have The Graggs App?
 date: 2022-01-18 18:07:29
 tags:
   - Real Estate
