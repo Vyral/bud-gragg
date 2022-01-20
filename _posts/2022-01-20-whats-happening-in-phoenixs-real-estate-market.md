@@ -5,7 +5,8 @@ date: 2022-01-20 20:13:48
 tags:
   - Market Update
 excerpt: Here’s what you need to know about Phoenix’s real estate market in 2022.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bud+Gragg/Videos/2022/What%E2%80%99s+Happening+in+Phoenix%E2%80%99s+Real+Estate+Market_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
