@@ -20,11 +20,11 @@ youtube_code: HLEG29hEtCo
 
 What’s happening in our real estate market? We get this question all the time from our clients, so today we want to take a look at where our market is heading. We just finished our latest market study for Phoenix, and we can’t wait to share the results. Don’t worry, our market is doing well, so here’s the latest information.
 
-**You can watch the full market breakdown in the video above skip to each topic using the timestamps provided:**
+**You can watch the full market breakdown in the video above or skip to each topic using the timestamps provided:**
 
 0:01 — Introduction
 
-0:55 — Trends still point to a seller’s market
+0:55 — The trends still point to a seller’s market
 
 1:58 — The rental and selling markets both remain strong
 
@@ -36,4 +36,4 @@ What’s happening in our real estate market? We get this question all the time 
 
 5:41 — Wrapping up
 
-If you have questions about today’s topic or anything else, please call or email us. We would love to help\!
+We hope this gives you a good snapshot of our market. If you have any questions or want to know what's going on in your neck of the woods, we would love to have a free consultation with you. Just call or email us\! We look forward to hearing from you.
