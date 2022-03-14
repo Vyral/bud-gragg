@@ -5,7 +5,8 @@ date: 2022-03-14 13:10:49
 tags:
   - Real Estate
 excerpt: Some of the fees on your 2021 HUD1 statement are tax-deductible.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bud+Gragg/Videos/2022/Tax-deductible+Fees.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
