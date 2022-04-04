@@ -5,7 +5,7 @@ date: 2022-04-04 17:43:58
 tags:
   - Home Buyer Tips
 excerpt: Here’s a quick look at a new and exciting program for struggling homebuyers.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Bud+Gragg/Videos/2022/Bud+Gragg+x.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
