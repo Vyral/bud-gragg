@@ -24,7 +24,7 @@ I have a client who wanted to sell his rental condo in the Phoenix metro area th
 
 {% include pullquote.html %}
 
-Now three months later, I resubmitted to the cash buyers for their offers and was able to negotiate the price $40,000 higher for this basic, tiny condo. I also negotiated $9,000 off the repair credit they were requesting from my client. **My client is ecstatic about the outcome** and got much more for his property than he thought he could. It’s been a wonderful experience for him, and we’ll be closing soon.
+Now three months later, I resubmitted to the cash buyers for their offers and was able to negotiate the price $40,000 higher for this basic, tiny condo. I also negotiated $9,000 off the repair credit they were requesting from my client. **My client is ecstatic about the outcome** and got much more for his property than he thought he could have. It’s been a wonderful experience for him, and we’ll be closing soon.
 
 That was a major win, but despite this great story, selling to those cash buyers may not be the best option for you. Your situation might be better suited to a traditional sale or selling to a regular buyer who agrees to pay in cash; there are plenty of other options.
 
