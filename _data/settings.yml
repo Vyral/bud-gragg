@@ -64,7 +64,7 @@ second_sidebar_CTA:
     CTA_link_text2: Search the MLS
     CTA_url2: 'https://discoverphoenixhomesforsale.com/property-search/'
 lender:
-  show_section: true
+  show_section: false
   header_text: Lender
   headshot_path: /img/lender-headshot.jpg
   logo_path: /img/lender-logo.png
